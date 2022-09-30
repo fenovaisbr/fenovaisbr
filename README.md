@@ -1,4 +1,4 @@
-## Olá! Eu sou o fenovaisbr
+## Olá! Eu sou fenovaisbr
 
 - 🌱 Estudando Análise e desenvolvimento de sistemas
 
